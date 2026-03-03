@@ -63,6 +63,8 @@ YouTubeで稼ぐための市場調査システム。
 UI: Tailwind CSS + shadcn/ui
 グラフ: Recharts
 API Routes: Next.js Route Handlers
+Linter/Formatter: Biome
+Git Hooks: Husky + lint-staged
 ```
 
 ### 認証
